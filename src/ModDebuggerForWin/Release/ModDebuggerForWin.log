@@ -1,4 +1,12 @@
-﻿  TextLabel.cpp
+﻿  ClearButton.cpp
+  GetProcess.cpp
+  ModDebugger.cpp
+  OnigRegex.cpp
+  RecieveButton.cpp
+  RegexBox.cpp
+  TextBox.cpp
+  TextLabel.cpp
+  WinForm.cpp
   ascii.c
   big5.c
   cp1251.c
