@@ -1,0 +1,14 @@
+﻿cl : コマンド ライン  warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  WinForm.cpp
+  TextLabel.cpp
+  TextBox.cpp
+  RegexBox.cpp
+  RecieveButton.cpp
+  OnigRegex.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(2535,40): error C2338: static_assert failed: 'Windows headers require the default packing option. Changing this can lead to memory corruption. This diagnostic can be disabled by building with WINDOWS_IGNORE_PACKING_MISMATCH defined.'
+  (ソース ファイル 'OnigRegex.cpp' をコンパイルしています)
+  
+  ModDebugger.cpp
+  GetProcess.cpp
+  ClearButton.cpp
+  コードを生成中...

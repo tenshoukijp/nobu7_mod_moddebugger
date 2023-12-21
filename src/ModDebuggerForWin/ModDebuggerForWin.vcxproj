@@ -14,7 +14,7 @@
     <ProjectGuid>{5632FBBC-49B4-478F-B036-B02961149D9C}</ProjectGuid>
     <RootNamespace>ModDebuggerForWin</RootNamespace>
     <Keyword>Win32Proj</Keyword>
-    <ProjectName>ModDebugger</ProjectName>
+    <ProjectName>N7ModDebugger</ProjectName>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

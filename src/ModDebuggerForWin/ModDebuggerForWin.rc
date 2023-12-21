@@ -72,7 +72,7 @@ BEGIN
             VALUE "FileDescription", "将星録 Modデバッグ出力ウィンドウ"
             VALUE "FileVersion", "1.0.1.9"
             VALUE "InternalName", "ModDebugger"
-            VALUE "LegalCopyright", "Copyright (C) 2023 天翔記.jp"
+            VALUE "LegalCopyright", "Copyright (C) 2023 将星録.jp"
             VALUE "OriginalFilename", "ModDebugger.exe"
             VALUE "ProductName", "将星録 Modデバッグ出力ウィンドウ"
             VALUE "ProductVersion", "1.0.1.9"
