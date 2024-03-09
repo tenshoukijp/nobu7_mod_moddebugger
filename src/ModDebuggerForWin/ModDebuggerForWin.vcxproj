@@ -14,7 +14,7 @@
     <ProjectGuid>{5632FBBC-49B4-478F-B036-B02961149D9C}</ProjectGuid>
     <RootNamespace>ModDebuggerForWin</RootNamespace>
     <Keyword>Win32Proj</Keyword>
-    <ProjectName>N7ModDebugger</ProjectName>
+    <ProjectName>ModDebugger</ProjectName>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -85,6 +85,7 @@
       <EnableEnhancedInstructionSet>StreamingSIMDExtensions2</EnableEnhancedInstructionSet>
       <LanguageStandard>stdcpp20</LanguageStandard>
       <AdditionalOptions>/D " WINDOWS_IGNORE_PACKING_MISMATCH" %(AdditionalOptions)</AdditionalOptions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
     </ClCompile>
     <Link>
       <ModuleDefinitionFile />

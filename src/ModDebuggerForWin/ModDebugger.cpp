@@ -173,8 +173,29 @@ unsigned __stdcall ThreadExternalProcModDebugger(void *lpx)
 
 				// ターゲットのプロセスＩＤ
 				int iTargetProcessID = 0;
-				HWND hTargetWnd = FindWindow( TARGET_CLASS_WND, NULL );
-				GetWindowThreadProcessId(hTargetWnd, (LPDWORD)&iTargetProcessID);
+
+				const char *wndlist[] = {
+					TARGET_N07_CLASS_WND,
+					TARGET_N08_CLASS_WND,
+					TARGET_N09_CLASS_WND,
+					TARGET_N10_CLASS_WND,
+					TARGET_N11_CLASS_WND,
+					TARGET_N12_CLASS_WND,
+					TARGET_N13_CLASS_WND,
+					TARGET_N14_CLASS_WND,
+					TARGET_N14SR_CLASS_WND,
+					TARGET_N06_CLASS_WND,
+					TARGET_N06_HD_CLASS_WND,
+				};
+
+				HWND hTargetWnd = NULL;
+				for (const char *wndname : wndlist) {
+					hTargetWnd = FindWindow(wndname, NULL);
+					if (hTargetWnd) {
+						GetWindowThreadProcessId(hTargetWnd, (LPDWORD)&iTargetProcessID);
+						break;
+					}
+				}
 
 				// すでに受信のバッファーが大きくなりすぎているならば、一度絞る
 				if ( AllRecievedLog.size() > OVER_ALL_RECIEVEDLOG_SIZE ) { // 2000以上になったら
