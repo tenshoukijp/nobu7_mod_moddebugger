@@ -1,53 +1,53 @@
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\ClearButton.cpp;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\ClearButton.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\GetProcess.cpp;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\GetProcess.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\ModDebugger.cpp;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\ModDebugger.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\OnigRegex.cpp;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\OnigRegex.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\ascii.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\ascii.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\big5.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\big5.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\cp1251.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\cp1251.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\euc_jp.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\euc_jp.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\euc_kr.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\euc_kr.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\euc_tw.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\euc_tw.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\gb18030.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\gb18030.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_1.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_1.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_10.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_10.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_11.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_11.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_13.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_13.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_14.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_14.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_15.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_15.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_16.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_16.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_2.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_2.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_3.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_3.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_4.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_4.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_5.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_5.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_6.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_6.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_7.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_7.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_8.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_8.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_9.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_9.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\koi8.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\koi8.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\koi8_r.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\koi8_r.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regcomp.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regcomp.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regenc.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regenc.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regerror.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regerror.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regexec.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regexec.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regext.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regext.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\reggnu.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\reggnu.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regparse.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regparse.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regposerr.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regposerr.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regposix.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regposix.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regsyntax.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regsyntax.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regtrav.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regtrav.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regversion.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regversion.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\sjis.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\sjis.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\st.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\st.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\unicode.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\unicode.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf16_be.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf16_be.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf16_le.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf16_le.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf32_be.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf32_be.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf32_le.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf32_le.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf8.c;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf8.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\RecieveButton.cpp;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\RecieveButton.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\RegexBox.cpp;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\RegexBox.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\TextBox.cpp;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\TextBox.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\TextLabel.cpp;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\TextLabel.obj
-C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\WinForm.cpp;C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\WinForm.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\ClearButton.cpp;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\ClearButton.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\GetProcess.cpp;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\GetProcess.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\ModDebugger.cpp;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\ModDebugger.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\OnigRegex.cpp;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\OnigRegex.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\ascii.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\ascii.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\big5.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\big5.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\cp1251.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\cp1251.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\euc_jp.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\euc_jp.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\euc_kr.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\euc_kr.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\euc_tw.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\euc_tw.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\gb18030.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\gb18030.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_1.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_1.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_10.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_10.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_11.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_11.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_13.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_13.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_14.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_14.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_15.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_15.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_16.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_16.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_2.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_2.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_3.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_3.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_4.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_4.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_5.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_5.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_6.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_6.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_7.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_7.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_8.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_8.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\iso8859_9.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\iso8859_9.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\koi8.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\koi8.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\koi8_r.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\koi8_r.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regcomp.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regcomp.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regenc.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regenc.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regerror.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regerror.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regexec.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regexec.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regext.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regext.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\reggnu.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\reggnu.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regparse.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regparse.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regposerr.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regposerr.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regposix.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regposix.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regsyntax.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regsyntax.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regtrav.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regtrav.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\regversion.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\regversion.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\sjis.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\sjis.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\st.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\st.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\unicode.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\unicode.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf16_be.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf16_be.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf16_le.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf16_le.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf32_be.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf32_be.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf32_le.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf32_le.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\oniguruma\utf8.c;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\utf8.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\RecieveButton.cpp;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\RecieveButton.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\RegexBox.cpp;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\RegexBox.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\TextBox.cpp;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\TextBox.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\TextLabel.cpp;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\TextLabel.obj
+C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\WinForm.cpp;C:\nobu7_mod_moddebugger\src\ModDebuggerForWin\Release\WinForm.obj

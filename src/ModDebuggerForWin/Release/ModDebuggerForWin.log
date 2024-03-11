@@ -1,4 +1,5 @@
-﻿  ClearButton.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中間ディレクトリ (Release\) に別のプロジェクト (N7ModDebugger.vcxproj, N8ModDebugger.vcxproj) と共有されているファイルが含まれています。これにより、クリーンしてリビルド動作が適切に行われない可能性があります。
+  ClearButton.cpp
   GetProcess.cpp
   ModDebugger.cpp
   OnigRegex.cpp
@@ -52,7 +53,8 @@
   utf32_le.c
   utf8.c
   コード生成しています。
-  Previous IPDB not found, fall back to full compilation.
-  All 757 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  750 of 757 functions (99.1%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
   コード生成が終了しました。
-  ModDebuggerForWin.vcxproj -> C:\新しいフォルダー (2)\nobu7_mod_moddebugger\src\Release\ModDebugger.exe
+  ModDebuggerForWin.vcxproj -> C:\nobu7_mod_moddebugger\src\Release\ModDebugger.exe
